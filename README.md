@@ -13,15 +13,15 @@
 ---
 
 <p align="center">
-  <a href="mailto:naiana.c.silvaa@gmail.com"><img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="naiana.c.silvaa@gmail.com"><img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/naianasilva07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img height = "180" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
-  <img height = "180" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight" />
+  <img height = "100" w src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
+  <img height = "100" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight" />
 </p>
 
 ---
