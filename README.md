@@ -20,8 +20,8 @@
 ---
 
 <p align="center">
-  <img height = "150" w src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
-  <img height = "150" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight" />
+  <img height = "150" w src="https://github-readme-stats.vercel.app/api?username=NaianaSilva&show_icons=true&theme=tokyonight" />
+  <img height = "150" src="https://github-readme-streak-stats.herokuapp.com/?user=NaianaSilva&theme=tokyonight" />
 </p>
 
 ---
