@@ -27,7 +27,7 @@
 ---
 
 ### 🐍 Minhas contribuições
-![Snake animation](https://github.com/NaianaSilva07/NaianaSilva07/blob/output/dist/snake.svg)
+![Snake animation](https://github.com/NaianaSilva/NaianaSilva/blob/output/dist/snake.svg)
 
 ---
 
