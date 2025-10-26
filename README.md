@@ -7,7 +7,6 @@
 
 - 🎓 Estudante de **Sistemas de Informação**
 - 🌱 Em constante apredizado
-- 💡 Apaixonada por tecnologia
 - 🎯 Sempre em busca de melhorar minhas habilidades
 
 ---
