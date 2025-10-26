@@ -26,5 +26,3 @@
 
 ---
 
-
-⭐ Obrigada por visitar meu perfil!
